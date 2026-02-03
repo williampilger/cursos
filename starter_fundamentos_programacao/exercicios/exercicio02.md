@@ -58,6 +58,50 @@ while True:
 
 ```
 
+## Solução 3
+
+```py
+while True:
+    print("""
+        1 - Soma
+        2 - Subtração
+        3 - Divisão
+        4 - Multiplicação
+        0 - Sair
+    """)
+
+    opcao = int(input("Escolha sua opção: "))
+    
+    if(opcao == 0):
+        break
+    elif(opcao<0 or opcao>4):
+        print("Opção inválida!")
+        continue
+
+    try:
+        a = float(input("Digite o primeiro valor: ").replace(',','.'))
+        b = float(input("Digite o segundo valor: ").replace(',','.'))
+    except:
+        print('Valor inválido')
+        continue
+
+    if(opcao==1):
+        print(f"A soma de {a} com {b} é {a+b}")
+    elif(opcao==2):
+        print(f"Subtraindo {b} de {a} obtemos {a-b}")
+    elif(opcao==3):
+        print(f"A divisão de {a} por {b} é {a/b}")
+    elif(opcao==4):
+        print(f"A multiplicação de {a} por {b} é {a*b}")
+    
+        
+
+print("Saindo...")
+quit()
+
+```
+
+
 ## Sobre
 
 By: **will.i.am** | github.com/williampilger
