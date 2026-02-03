@@ -1,0 +1,1070 @@
+Data,Descrição,Categoria,Valor,Centro de Custo
+2025-01-02,Padaria Pão Quente,Alimentação,-12.50,Família
+2025-01-02,Café da manhã McDonald's,Alimentação,-28.90,Família
+2025-01-03,Padaria Pão Quente,Alimentação,-15.80,Família
+2025-01-03,Uber - Casa ao trabalho,Transporte,-18.50,Romeu
+2025-01-03,Lanche escolar,Alimentação,-8.00,Filho
+2025-01-04,Padaria Pão Quente,Alimentação,-13.20,Família
+2025-01-04,Supermercado Dia - Compras da semana,Mercado,-245.80,Família
+2025-01-04,Sorvete Kibom,Lazer,-32.00,Família
+2025-01-05,Salário,Receita,5000.00,Romeu
+2025-01-05,Salário,Receita,4500.00,Julieta
+2025-01-05,Padaria Pão Quente,Alimentação,-11.90,Família
+2025-01-05,Almoço Restaurante Sabor Caseiro,Alimentação,-68.00,Família
+2025-01-06,Padaria Pão Quente,Alimentação,-14.30,Família
+2025-01-06,Gasolina Posto Shell,Carro,-85.00,Família
+2025-01-06,Farmácia São João - Remédios,Saúde,-42.90,Família
+2025-01-07,Padaria Pão Quente,Alimentação,-16.20,Família
+2025-01-07,Lanche escolar,Alimentação,-8.00,Filho
+2025-01-07,Netflix - Assinatura,Lazer,-55.90,Família
+2025-01-08,Padaria Pão Quente,Alimentação,-12.80,Família
+2025-01-08,Aluguel Janeiro,Moradia,-1800.00,Família
+2025-01-08,Feira livre - Frutas e verduras,Mercado,-78.50,Família
+2025-01-09,Padaria Pão Quente,Alimentação,-13.50,Família
+2025-01-09,Lanche escolar,Alimentação,-8.00,Filho
+2025-01-09,Pizza Hut - Jantar,Alimentação,-89.90,Família
+2025-01-10,Padaria Pão Quente,Alimentação,-15.90,Família
+2025-01-10,Supermercado Extra - Compras,Mercado,-312.40,Família
+2025-01-10,Brinquedos - Loja Ri Happy,Lazer,-125.00,Filho
+2025-01-11,Padaria Pão Quente,Alimentação,-11.70,Família
+2025-01-11,Churrascaria Boi na Brasa,Alimentação,-156.00,Família
+2025-01-11,Cinema - Ingressos,Lazer,-84.00,Família
+2025-01-11,Pipoca e refrigerante cinema,Lazer,-52.00,Família
+2025-01-12,Padaria Pão Quente,Alimentação,-14.60,Família
+2025-01-12,Parque de diversões,Lazer,-95.00,Filho
+2025-01-13,Padaria Pão Quente,Alimentação,-12.30,Família
+2025-01-13,Gasolina Posto Ipiranga,Carro,-90.00,Família
+2025-01-13,Lavagem de carro,Carro,-35.00,Família
+2025-01-14,Padaria Pão Quente,Alimentação,-13.80,Família
+2025-01-14,Lanche escolar,Alimentação,-8.00,Filho
+2025-01-14,Farmácia Drogasil - Vitaminas,Saúde,-67.50,Família
+2025-01-15,Conta de Luz - CPFL,Energia,-180.00,Família
+2025-01-15,Conta de Água - SABESP,Água,-95.00,Família
+2025-01-15,Padaria Pão Quente,Alimentação,-15.40,Família
+2025-01-15,Supermercado Carrefour,Mercado,-189.70,Família
+2025-01-16,Padaria Pão Quente,Alimentação,-12.90,Família
+2025-01-16,Lanche escolar,Alimentação,-8.00,Filho
+2025-01-16,Uber Eats - Jantar,Alimentação,-72.50,Família
+2025-01-17,Padaria Pão Quente,Alimentação,-14.50,Família
+2025-01-17,Feira livre,Mercado,-62.30,Família
+2025-01-17,Sorveteria Mil Sabores,Lazer,-45.00,Família
+2025-01-18,Plano de Celular Vivo,Telefone,-120.00,Romeu
+2025-01-18,Plano de Celular TIM,Telefone,-120.00,Julieta
+2025-01-18,Padaria Pão Quente,Alimentação,-13.20,Família
+2025-01-18,Almoço no trabalho,Alimentação,-35.00,Romeu
+2025-01-19,Padaria Pão Quente,Alimentação,-16.80,Família
+2025-01-19,Bob's - Lanche,Alimentação,-42.90,Família
+2025-01-20,Padaria Pão Quente,Alimentação,-11.50,Família
+2025-01-20,Gasolina Posto BR,Carro,-95.00,Família
+2025-01-20,Estacionamento shopping,Transporte,-15.00,Família
+2025-01-21,Padaria Pão Quente,Alimentação,-14.20,Família
+2025-01-21,Lanche escolar,Alimentação,-8.00,Filho
+2025-01-21,Material escolar - Papelaria,Educação,-156.80,Filho
+2025-01-22,Padaria Pão Quente,Alimentação,-15.60,Família
+2025-01-22,Supermercado Atacadão,Mercado,-278.90,Família
+2025-01-22,Açougue Bom Corte,Mercado,-125.00,Família
+2025-01-23,Padaria Pão Quente,Alimentação,-12.40,Família
+2025-01-23,Lanche escolar,Alimentação,-8.00,Filho
+2025-01-23,Farmácia Pague Menos - Dipirona,Saúde,-12.90,Família
+2025-01-24,Padaria Pão Quente,Alimentação,-13.90,Família
+2025-01-24,Feira livre,Mercado,-71.20,Família
+2025-01-24,Shopping - Roupas,Vestuário,-189.90,Julieta
+2025-01-25,Padaria Pão Quente,Alimentação,-15.30,Família
+2025-01-25,Veterinário - Consulta,Pet,-180.00,Cachorro
+2025-01-25,Restaurante Japonês,Alimentação,-198.00,Família
+2025-01-26,Padaria Pão Quente,Alimentação,-11.80,Família
+2025-01-26,Parque aquático,Lazer,-165.00,Família
+2025-01-26,Lanche no parque,Alimentação,-56.00,Família
+2025-01-27,Padaria Pão Quente,Alimentação,-14.70,Família
+2025-01-27,Gasolina Posto Shell,Carro,-88.00,Família
+2025-01-27,Uber - Centro médico,Transporte,-22.50,Julieta
+2025-01-28,Padaria Pão Quente,Alimentação,-12.60,Família
+2025-01-28,Lanche escolar,Alimentação,-8.00,Filho
+2025-01-28,Ração para cachorro - 15kg,Pet,-95.00,Cachorro
+2025-01-28,Petisco para cachorro,Pet,-28.50,Cachorro
+2025-01-29,Padaria Pão Quente,Alimentação,-13.40,Família
+2025-01-29,Supermercado Extra,Mercado,-198.60,Família
+2025-01-29,Livraria Cultura - Livros,Educação,-87.90,Filho
+2025-01-30,Padaria Pão Quente,Alimentação,-15.90,Família
+2025-01-30,Lanche escolar,Alimentação,-8.00,Filho
+2025-01-30,Farmácia - Protetor solar,Saúde,-45.90,Família
+2025-01-31,Padaria Pão Quente,Alimentação,-12.20,Família
+2025-01-31,Feira livre,Mercado,-68.40,Família
+2025-01-31,Sorvete Kibom,Lazer,-28.00,Família
+2025-02-01,Padaria Pão Quente,Alimentação,-14.80,Família
+2025-02-01,Almoço Restaurante,Alimentação,-72.50,Família
+2025-02-01,Presente aniversário amigo,Presentes,-95.00,Romeu
+2025-02-02,Padaria Pão Quente,Alimentação,-11.90,Família
+2025-02-02,Uber - Trabalho,Transporte,-19.50,Romeu
+2025-02-03,Padaria Pão Quente,Alimentação,-13.60,Família
+2025-02-03,Gasolina Posto Ipiranga,Carro,-92.00,Família
+2025-02-03,Supermercado Dia,Mercado,-256.30,Família
+2025-02-04,Padaria Pão Quente,Alimentação,-15.20,Família
+2025-02-04,Lanche escolar,Alimentação,-8.00,Filho
+2025-02-04,McDonald's - Jantar,Alimentação,-58.90,Família
+2025-02-05,Salário,Receita,5000.00,Romeu
+2025-02-05,Salário,Receita,4500.00,Julieta
+2025-02-05,Padaria Pão Quente,Alimentação,-12.70,Família
+2025-02-05,Mensalidade escola,Educação,-650.00,Filho
+2025-02-06,Padaria Pão Quente,Alimentação,-14.30,Família
+2025-02-06,Lanche escolar,Alimentação,-8.00,Filho
+2025-02-06,Farmácia - Antigripal,Saúde,-35.80,Família
+2025-02-07,Padaria Pão Quente,Alimentação,-13.50,Família
+2025-02-07,Feira livre,Mercado,-75.60,Família
+2025-02-07,Cinema - Ingressos,Lazer,-84.00,Família
+2025-02-08,Aluguel Fevereiro,Moradia,-1800.00,Família
+2025-02-08,Padaria Pão Quente,Alimentação,-15.80,Família
+2025-02-08,Supermercado Carrefour,Mercado,-298.70,Família
+2025-02-09,Padaria Pão Quente,Alimentação,-11.60,Família
+2025-02-09,Pizzaria Domino's,Alimentação,-95.00,Família
+2025-02-10,Padaria Pão Quente,Alimentação,-14.40,Família
+2025-02-10,Gasolina Posto BR,Carro,-87.00,Família
+2025-02-10,Lanche escolar,Alimentação,-8.00,Filho
+2025-02-11,Padaria Pão Quente,Alimentação,-12.90,Família
+2025-02-11,Lanche escolar,Alimentação,-8.00,Filho
+2025-02-11,Spotify Premium,Lazer,-21.90,Romeu
+2025-02-12,Conta de Luz,Energia,-165.00,Família
+2025-02-12,Conta de Água,Água,-88.00,Família
+2025-02-12,Padaria Pão Quente,Alimentação,-13.70,Família
+2025-02-12,Uber Eats - Almoço,Alimentação,-65.00,Família
+2025-02-13,Padaria Pão Quente,Alimentação,-15.50,Família
+2025-02-13,Lanche escolar,Alimentação,-8.00,Filho
+2025-02-13,Supermercado Extra,Mercado,-187.90,Família
+2025-02-14,Padaria Pão Quente,Alimentação,-12.30,Família
+2025-02-14,Flores - Dia dos Namorados,Presentes,-85.00,Romeu
+2025-02-14,Jantar romântico,Alimentação,-245.00,Família
+2025-02-14,Presente Dia dos Namorados,Presentes,-320.00,Romeu
+2025-02-15,Plano de Celular,Telefone,-120.00,Romeu
+2025-02-15,Plano de Celular,Telefone,-120.00,Julieta
+2025-02-15,Padaria Pão Quente,Alimentação,-14.90,Família
+2025-02-15,Feira livre,Mercado,-69.80,Família
+2025-02-16,Padaria Pão Quente,Alimentação,-11.40,Família
+2025-02-16,Parque infantil,Lazer,-45.00,Filho
+2025-02-17,Padaria Pão Quente,Alimentação,-13.80,Família
+2025-02-17,Gasolina Posto Shell,Carro,-94.00,Família
+2025-02-17,Supermercado Atacadão,Mercado,-312.50,Família
+2025-02-18,Padaria Pão Quente,Alimentação,-15.60,Família
+2025-02-18,Lanche escolar,Alimentação,-8.00,Filho
+2025-02-18,Manutenção do carro - Troca de óleo,Carro,-180.00,Família
+2025-02-19,Padaria Pão Quente,Alimentação,-12.50,Família
+2025-02-19,Lanche escolar,Alimentação,-8.00,Filho
+2025-02-19,Farmácia - Antibiótico,Saúde,-78.90,Filho
+2025-02-20,Padaria Pão Quente,Alimentação,-14.20,Família
+2025-02-20,Médico pediatra - Consulta,Saúde,-250.00,Filho
+2025-02-21,Padaria Pão Quente,Alimentação,-13.40,Família
+2025-02-21,Feira livre,Mercado,-72.30,Família
+2025-02-21,Sorveteria,Lazer,-38.00,Família
+2025-02-22,Padaria Pão Quente,Alimentação,-15.90,Família
+2025-02-22,Uniforme escolar,Vestuário,-180.00,Filho
+2025-02-22,Lanchonete - Final de semana,Alimentação,-68.00,Família
+2025-02-23,Padaria Pão Quente,Alimentação,-11.70,Família
+2025-02-23,Shopping - Passeio,Lazer,-125.00,Família
+2025-02-24,Padaria Pão Quente,Alimentação,-14.60,Família
+2025-02-24,Gasolina Posto Ipiranga,Carro,-89.00,Família
+2025-02-24,Supermercado Dia,Mercado,-245.80,Família
+2025-02-25,Padaria Pão Quente,Alimentação,-12.80,Família
+2025-02-25,Lanche escolar,Alimentação,-8.00,Filho
+2025-02-25,Ração para cachorro,Pet,-95.00,Cachorro
+2025-02-26,Padaria Pão Quente,Alimentação,-13.90,Família
+2025-02-26,Lanche escolar,Alimentação,-8.00,Filho
+2025-02-26,Uber - Consulta médica,Transporte,-25.00,Julieta
+2025-02-27,Padaria Pão Quente,Alimentação,-15.20,Família
+2025-02-27,Feira livre,Mercado,-81.50,Família
+2025-02-27,Brinquedo novo,Presentes,-67.00,Filho
+2025-02-28,Padaria Pão Quente,Alimentação,-12.40,Família
+2025-02-28,Restaurante italiano,Alimentação,-178.00,Família
+2025-03-01,Padaria Pão Quente,Alimentação,-14.70,Família
+2025-03-01,Cafeteria Starbucks,Alimentação,-42.50,Romeu
+2025-03-02,Padaria Pão Quente,Alimentação,-11.90,Família
+2025-03-02,Uber - Shopping,Transporte,-16.50,Julieta
+2025-03-03,Padaria Pão Quente,Alimentação,-13.60,Família
+2025-03-03,Gasolina Posto BR,Carro,-91.00,Família
+2025-03-03,Supermercado Extra,Mercado,-267.40,Família
+2025-03-04,Padaria Pão Quente,Alimentação,-15.30,Família
+2025-03-04,Lanche escolar,Alimentação,-8.00,Filho
+2025-03-04,Farmácia - Xarope,Saúde,-32.50,Filho
+2025-03-05,Salário,Receita,5000.00,Romeu
+2025-03-05,Salário,Receita,4500.00,Julieta
+2025-03-05,Padaria Pão Quente,Alimentação,-12.70,Família
+2025-03-05,Mensalidade escola,Educação,-650.00,Filho
+2025-03-06,Padaria Pão Quente,Alimentação,-14.50,Família
+2025-03-06,Lanche escolar,Alimentação,-8.00,Filho
+2025-03-06,Netflix,Lazer,-55.90,Família
+2025-03-07,Padaria Pão Quente,Alimentação,-13.20,Família
+2025-03-07,Feira livre,Mercado,-76.80,Família
+2025-03-07,Cinema,Lazer,-84.00,Família
+2025-03-08,Aluguel Março,Moradia,-1800.00,Família
+2025-03-08,Padaria Pão Quente,Alimentação,-15.80,Família
+2025-03-08,Presente Dia da Mulher,Presentes,-250.00,Romeu
+2025-03-08,Flores,Presentes,-95.00,Romeu
+2025-03-09,Padaria Pão Quente,Alimentação,-11.50,Família
+2025-03-09,Almoço domingo,Alimentação,-156.00,Família
+2025-03-10,Padaria Pão Quente,Alimentação,-14.40,Família
+2025-03-10,Gasolina Posto Shell,Carro,-93.00,Família
+2025-03-10,Supermercado Carrefour,Mercado,-289.70,Família
+2025-03-11,Padaria Pão Quente,Alimentação,-12.90,Família
+2025-03-11,Lanche escolar,Alimentação,-8.00,Filho
+2025-03-11,Bob's,Alimentação,-54.90,Família
+2025-03-12,Conta de Luz,Energia,-175.00,Família
+2025-03-12,Conta de Água,Água,-92.00,Família
+2025-03-12,Padaria Pão Quente,Alimentação,-13.80,Família
+2025-03-12,Uber Eats - Jantar,Alimentação,-78.50,Família
+2025-03-13,Padaria Pão Quente,Alimentação,-15.60,Família
+2025-03-13,Lanche escolar,Alimentação,-8.00,Filho
+2025-03-13,Farmácia - Vitamina C,Saúde,-48.90,Família
+2025-03-14,Padaria Pão Quente,Alimentação,-12.30,Família
+2025-03-14,Feira livre,Mercado,-82.40,Família
+2025-03-14,Sorveteria,Lazer,-42.00,Família
+2025-03-15,Plano de Celular,Telefone,-120.00,Romeu
+2025-03-15,Plano de Celular,Telefone,-120.00,Julieta
+2025-03-15,Padaria Pão Quente,Alimentação,-14.90,Família
+2025-03-15,Shopping - Roupas,Vestuário,-245.00,Família
+2025-03-16,Padaria Pão Quente,Alimentação,-11.60,Família
+2025-03-16,Parque de diversões,Lazer,-125.00,Filho
+2025-03-17,Padaria Pão Quente,Alimentação,-13.70,Família
+2025-03-17,Gasolina Posto Ipiranga,Carro,-88.00,Família
+2025-03-17,Supermercado Atacadão,Mercado,-325.60,Família
+2025-03-18,Padaria Pão Quente,Alimentação,-15.40,Família
+2025-03-18,Lanche escolar,Alimentação,-8.00,Filho
+2025-03-18,Pizzaria,Alimentação,-102.00,Família
+2025-03-19,Padaria Pão Quente,Alimentação,-12.50,Família
+2025-03-19,Lanche escolar,Alimentação,-8.00,Filho
+2025-03-19,Uber - Trabalho,Transporte,-21.00,Romeu
+2025-03-20,Padaria Pão Quente,Alimentação,-14.20,Família
+2025-03-20,Dentista - Consulta,Saúde,-180.00,Julieta
+2025-03-21,Padaria Pão Quente,Alimentação,-13.40,Família
+2025-03-21,Feira livre,Mercado,-79.30,Família
+2025-03-21,Brinquedoteca,Lazer,-55.00,Filho
+2025-03-22,Padaria Pão Quente,Alimentação,-15.90,Família
+2025-03-22,Veterinário - Vacina anual,Pet,-220.00,Cachorro
+2025-03-22,Restaurante,Alimentação,-145.00,Família
+2025-03-23,Padaria Pão Quente,Alimentação,-11.80,Família
+2025-03-23,Churrascaria,Alimentação,-198.00,Família
+2025-03-24,Padaria Pão Quente,Alimentação,-14.60,Família
+2025-03-24,Gasolina Posto BR,Carro,-95.00,Família
+2025-03-24,Supermercado Dia,Mercado,-234.80,Família
+2025-03-25,Padaria Pão Quente,Alimentação,-12.70,Família
+2025-03-25,Lanche escolar,Alimentação,-8.00,Filho
+2025-03-25,Farmácia - Remédio alergia,Saúde,-56.90,Filho
+2025-03-26,Padaria Pão Quente,Alimentação,-13.90,Família
+2025-03-26,Lanche escolar,Alimentação,-8.00,Filho
+2025-03-26,Material escolar adicional,Educação,-87.50,Filho
+2025-03-27,Padaria Pão Quente,Alimentação,-15.30,Família
+2025-03-27,Feira livre,Mercado,-84.60,Família
+2025-03-27,Sorvete,Lazer,-35.00,Família
+2025-03-28,Padaria Pão Quente,Alimentação,-12.40,Família
+2025-03-28,Ração para cachorro,Pet,-95.00,Cachorro
+2025-03-28,Cinema,Lazer,-84.00,Família
+2025-03-29,Padaria Pão Quente,Alimentação,-14.80,Família
+2025-03-29,Almoço final de semana,Alimentação,-167.00,Família
+2025-03-30,Padaria Pão Quente,Alimentação,-11.90,Família
+2025-03-30,Parque aquático,Lazer,-185.00,Família
+2025-03-31,Padaria Pão Quente,Alimentação,-13.60,Família
+2025-03-31,Gasolina Posto Shell,Carro,-92.00,Família
+2025-03-31,Supermercado Extra,Mercado,-198.50,Família
+2025-04-01,Padaria Pão Quente,Alimentação,-15.20,Família
+2025-04-01,Lanche escolar,Alimentação,-8.00,Filho
+2025-04-01,McDonald's,Alimentação,-62.90,Família
+2025-04-02,Padaria Pão Quente,Alimentação,-12.80,Família
+2025-04-02,Uber - Centro,Transporte,-18.50,Julieta
+2025-04-02,Spotify,Lazer,-21.90,Romeu
+2025-04-03,Padaria Pão Quente,Alimentação,-14.50,Família
+2025-04-03,Lanche escolar,Alimentação,-8.00,Filho
+2025-04-03,Farmácia - Analgésico,Saúde,-25.80,Família
+2025-04-04,Padaria Pão Quente,Alimentação,-13.20,Família
+2025-04-04,Feira livre,Mercado,-77.90,Família
+2025-04-04,Sorveteria,Lazer,-46.00,Família
+2025-04-05,Salário,Receita,5000.00,Romeu
+2025-04-05,Salário,Receita,4500.00,Julieta
+2025-04-05,Padaria Pão Quente,Alimentação,-15.80,Família
+2025-04-05,Mensalidade escola,Educação,-650.00,Filho
+2025-04-06,Aluguel Abril,Moradia,-1800.00,Família
+2025-04-06,Padaria Pão Quente,Alimentação,-11.60,Família
+2025-04-06,Almoço domingo,Alimentação,-142.00,Família
+2025-04-07,Padaria Pão Quente,Alimentação,-14.40,Família
+2025-04-07,Gasolina Posto Ipiranga,Carro,-89.00,Família
+2025-04-07,Supermercado Carrefour,Mercado,-276.30,Família
+2025-04-08,Padaria Pão Quente,Alimentação,-12.90,Família
+2025-04-08,Lanche escolar,Alimentação,-8.00,Filho
+2025-04-08,Netflix,Lazer,-55.90,Família
+2025-04-09,Padaria Pão Quente,Alimentação,-13.70,Família
+2025-04-09,Lanche escolar,Alimentação,-8.00,Filho
+2025-04-09,Uber Eats,Alimentação,-71.50,Família
+2025-04-10,Conta de Luz,Energia,-158.00,Família
+2025-04-10,Conta de Água,Água,-85.00,Família
+2025-04-10,Padaria Pão Quente,Alimentação,-15.50,Família
+2025-04-10,Supermercado Atacadão,Mercado,-342.80,Família
+2025-04-11,Padaria Pão Quente,Alimentação,-12.30,Família
+2025-04-11,Feira livre,Mercado,-73.20,Família
+2025-04-11,Cinema,Lazer,-84.00,Família
+2025-04-12,Plano de Celular,Telefone,-120.00,Romeu
+2025-04-12,Plano de Celular,Telefone,-120.00,Julieta
+2025-04-12,Padaria Pão Quente,Alimentação,-14.90,Família
+2025-04-12,Pizzaria,Alimentação,-98.00,Família
+2025-04-13,Padaria Pão Quente,Alimentação,-11.50,Família
+2025-04-13,Shopping - Passeio,Lazer,-135.00,Família
+2025-04-14,Padaria Pão Quente,Alimentação,-13.80,Família
+2025-04-14,Gasolina Posto BR,Carro,-94.00,Família
+2025-04-14,Lanche escolar,Alimentação,-8.00,Filho
+2025-04-15,Padaria Pão Quente,Alimentação,-15.60,Família
+2025-04-15,Lanche escolar,Alimentação,-8.00,Filho
+2025-04-15,Farmácia - Antialérgico,Saúde,-42.90,Família
+2025-04-16,Padaria Pão Quente,Alimentação,-12.40,Família
+2025-04-16,Lanche escolar,Alimentação,-8.00,Filho
+2025-04-16,Bob's,Alimentação,-48.90,Família
+2025-04-17,Padaria Pão Quente,Alimentação,-14.20,Família
+2025-04-17,Supermercado Dia,Mercado,-223.70,Família
+2025-04-17,Feira livre,Mercado,-81.40,Família
+2025-04-18,Padaria Pão Quente,Alimentação,-13.50,Família
+2025-04-18,Médico clínico - Consulta emergencial,Saúde,-320.00,Romeu
+2025-04-18,Farmácia - Medicação,Saúde,-156.80,Romeu
+2025-04-19,Padaria Pão Quente,Alimentação,-15.90,Família
+2025-04-19,Uber - Hospital,Transporte,-32.00,Romeu
+2025-04-19,Exames laboratoriais,Saúde,-285.00,Romeu
+2025-04-20,Padaria Pão Quente,Alimentação,-11.70,Família
+2025-04-20,Restaurante,Alimentação,-132.00,Família
+2025-04-21,Padaria Pão Quente,Alimentação,-14.60,Família
+2025-04-21,Gasolina Posto Shell,Carro,-91.00,Família
+2025-04-21,Supermercado Extra,Mercado,-198.90,Família
+2025-04-22,Padaria Pão Quente,Alimentação,-12.80,Família
+2025-04-22,Lanche escolar,Alimentação,-8.00,Filho
+2025-04-22,Roupas novas - Loja Renner,Vestuário,-280.00,Romeu
+2025-04-23,Padaria Pão Quente,Alimentação,-13.90,Família
+2025-04-23,Lanche escolar,Alimentação,-8.00,Filho
+2025-04-23,Uber - Trabalho,Transporte,-19.50,Julieta
+2025-04-24,Padaria Pão Quente,Alimentação,-15.30,Família
+2025-04-24,Feira livre,Mercado,-86.70,Família
+2025-04-24,Sorvete,Lazer,-39.00,Família
+2025-04-25,Padaria Pão Quente,Alimentação,-12.50,Família
+2025-04-25,Tênis escolar - Nike,Vestuário,-150.00,Filho
+2025-04-25,Brinquedo,Presentes,-78.00,Filho
+2025-04-26,Padaria Pão Quente,Alimentação,-14.70,Família
+2025-04-26,Almoço final de semana,Alimentação,-158.00,Família
+2025-04-27,Padaria Pão Quente,Alimentação,-11.90,Família
+2025-04-27,Parque de diversões,Lazer,-145.00,Família
+2025-04-28,Padaria Pão Quente,Alimentação,-13.60,Família
+2025-04-28,Gasolina Posto Ipiranga,Carro,-87.00,Família
+2025-04-28,Ração para cachorro,Pet,-95.00,Cachorro
+2025-04-29,Padaria Pão Quente,Alimentação,-15.40,Família
+2025-04-29,Lanche escolar,Alimentação,-8.00,Filho
+2025-04-29,Supermercado Carrefour,Mercado,-267.50,Família
+2025-04-30,Padaria Pão Quente,Alimentação,-12.20,Família
+2025-04-30,Uber Eats - Jantar,Alimentação,-82.50,Família
+2025-05-01,Padaria Pão Quente,Alimentação,-14.80,Família
+2025-05-01,Feriado - Churrasco,Alimentação,-245.00,Família
+2025-05-02,Padaria Pão Quente,Alimentação,-13.20,Família
+2025-05-02,Feira livre,Mercado,-79.60,Família
+2025-05-02,Cinema,Lazer,-84.00,Família
+2025-05-03,Padaria Pão Quente,Alimentação,-15.70,Família
+2025-05-03,Almoço domingo,Alimentação,-178.00,Família
+2025-05-04,Padaria Pão Quente,Alimentação,-11.50,Família
+2025-05-04,Uber - Shopping,Transporte,-17.50,Julieta
+2025-05-05,Salário,Receita,5000.00,Romeu
+2025-05-05,Salário,Receita,4500.00,Julieta
+2025-05-05,Padaria Pão Quente,Alimentação,-14.40,Família
+2025-05-05,Gasolina Posto BR,Carro,-93.00,Família
+2025-05-05,Mensalidade escola,Educação,-650.00,Filho
+2025-05-06,Aluguel Maio,Moradia,-1800.00,Família
+2025-05-06,Padaria Pão Quente,Alimentação,-12.90,Família
+2025-05-06,Lanche escolar,Alimentação,-8.00,Filho
+2025-05-06,Netflix,Lazer,-55.90,Família
+2025-05-07,Padaria Pão Quente,Alimentação,-13.80,Família
+2025-05-07,Lanche escolar,Alimentação,-8.00,Filho
+2025-05-07,Farmácia - Vitaminas,Saúde,-67.50,Família
+2025-05-08,Padaria Pão Quente,Alimentação,-15.60,Família
+2025-05-08,Supermercado Atacadão,Mercado,-298.40,Família
+2025-05-08,Açougue,Mercado,-135.00,Família
+2025-05-09,Conta de Luz,Energia,-195.00,Família
+2025-05-09,Conta de Água,Água,-98.00,Família
+2025-05-09,Padaria Pão Quente,Alimentação,-12.30,Família
+2025-05-09,Feira livre,Mercado,-74.80,Família
+2025-05-10,Plano de Celular,Telefone,-120.00,Romeu
+2025-05-10,Plano de Celular,Telefone,-120.00,Julieta
+2025-05-10,Padaria Pão Quente,Alimentação,-14.90,Família
+2025-05-10,Presente Dia das Mães,Presentes,-450.00,Romeu
+2025-05-11,Padaria Pão Quente,Alimentação,-11.60,Família
+2025-05-11,Restaurante - Dia das Mães,Alimentação,-298.00,Família
+2025-05-11,Flores,Presentes,-85.00,Família
+2025-05-12,Padaria Pão Quente,Alimentação,-13.70,Família
+2025-05-12,Gasolina Posto Shell,Carro,-96.00,Família
+2025-05-12,Supermercado Dia,Mercado,-245.70,Família
+2025-05-13,Padaria Pão Quente,Alimentação,-15.50,Família
+2025-05-13,Lanche escolar,Alimentação,-8.00,Filho
+2025-05-13,Bob's,Alimentação,-51.90,Família
+2025-05-14,Padaria Pão Quente,Alimentação,-12.40,Família
+2025-05-14,Lanche escolar,Alimentação,-8.00,Filho
+2025-05-14,Spotify,Lazer,-21.90,Romeu
+2025-05-15,Padaria Pão Quente,Alimentação,-14.20,Família
+2025-05-15,Lanche escolar,Alimentação,-8.00,Filho
+2025-05-15,Uber Eats,Alimentação,-76.50,Família
+2025-05-16,Padaria Pão Quente,Alimentação,-13.50,Família
+2025-05-16,Feira livre,Mercado,-82.30,Família
+2025-05-16,Sorveteria,Lazer,-44.00,Família
+2025-05-17,Padaria Pão Quente,Alimentação,-15.90,Família
+2025-05-17,Shopping - Roupas,Vestuário,-312.00,Julieta
+2025-05-17,Cinema,Lazer,-84.00,Família
+2025-05-18,Padaria Pão Quente,Alimentação,-11.80,Família
+2025-05-18,Churrascaria,Alimentação,-215.00,Família
+2025-05-19,Padaria Pão Quente,Alimentação,-14.60,Família
+2025-05-19,Gasolina Posto Ipiranga,Carro,-90.00,Família
+2025-05-19,Supermercado Extra,Mercado,-234.90,Família
+2025-05-20,Padaria Pão Quente,Alimentação,-12.70,Família
+2025-05-20,Lanche escolar,Alimentação,-8.00,Filho
+2025-05-20,Farmácia - Remédios,Saúde,-89.80,Família
+2025-05-21,Padaria Pão Quente,Alimentação,-13.90,Família
+2025-05-21,Lanche escolar,Alimentação,-8.00,Filho
+2025-05-21,Dentista - Limpeza,Saúde,-200.00,Romeu
+2025-05-22,Padaria Pão Quente,Alimentação,-15.30,Família
+2025-05-22,Lanche escolar,Alimentação,-8.00,Filho
+2025-05-22,Pizzaria,Alimentação,-105.00,Família
+2025-05-23,Padaria Pão Quente,Alimentação,-12.50,Família
+2025-05-23,Feira livre,Mercado,-77.50,Família
+2025-05-23,Parque aquático,Lazer,-195.00,Família
+2025-05-24,Padaria Pão Quente,Alimentação,-14.70,Família
+2025-05-24,Almoço final de semana,Alimentação,-165.00,Família
+2025-05-25,Padaria Pão Quente,Alimentação,-11.90,Família
+2025-05-25,IPVA do carro - Parcela única,Carro,-850.00,Família
+2025-05-26,Padaria Pão Quente,Alimentação,-13.60,Família
+2025-05-26,Gasolina Posto BR,Carro,-88.00,Família
+2025-05-26,Supermercado Carrefour,Mercado,-289.60,Família
+2025-05-27,Padaria Pão Quente,Alimentação,-15.40,Família
+2025-05-27,Lanche escolar,Alimentação,-8.00,Filho
+2025-05-27,Uber - Centro médico,Transporte,-24.50,Julieta
+2025-05-28,Padaria Pão Quente,Alimentação,-12.20,Família
+2025-05-28,Lanche escolar,Alimentação,-8.00,Filho
+2025-05-28,Ração para cachorro,Pet,-95.00,Cachorro
+2025-05-29,Padaria Pão Quente,Alimentação,-14.80,Família
+2025-05-29,Lanche escolar,Alimentação,-8.00,Filho
+2025-05-29,McDonald's,Alimentação,-65.90,Família
+2025-05-30,Padaria Pão Quente,Alimentação,-13.20,Família
+2025-05-30,Feira livre,Mercado,-84.70,Família
+2025-05-30,Sorvete,Lazer,-37.00,Família
+2025-05-31,Padaria Pão Quente,Alimentação,-15.80,Família
+2025-05-31,Restaurante,Alimentação,-187.00,Família
+2025-06-01,Padaria Pão Quente,Alimentação,-11.50,Família
+2025-06-01,Presente aniversário amigo,Presentes,-120.00,Filho
+2025-06-02,Padaria Pão Quente,Alimentação,-14.40,Família
+2025-06-02,Gasolina Posto Shell,Carro,-95.00,Família
+2025-06-02,Supermercado Atacadão,Mercado,-312.80,Família
+2025-06-03,Padaria Pão Quente,Alimentação,-12.90,Família
+2025-06-03,Lanche escolar,Alimentação,-8.00,Filho
+2025-06-03,Netflix,Lazer,-55.90,Família
+2025-06-04,Padaria Pão Quente,Alimentação,-13.80,Família
+2025-06-04,Lanche escolar,Alimentação,-8.00,Filho
+2025-06-04,Uber Eats,Alimentação,-72.50,Família
+2025-06-05,Salário,Receita,5000.00,Romeu
+2025-06-05,Salário,Receita,4500.00,Julieta
+2025-06-05,Padaria Pão Quente,Alimentação,-15.60,Família
+2025-06-05,Mensalidade escola,Educação,-650.00,Filho
+2025-06-06,Aluguel Junho,Moradia,-1800.00,Família
+2025-06-06,Padaria Pão Quente,Alimentação,-12.30,Família
+2025-06-06,Feira livre,Mercado,-79.90,Família
+2025-06-07,Conta de Luz,Energia,-210.00,Família
+2025-06-07,Conta de Água,Água,-102.00,Família
+2025-06-07,Padaria Pão Quente,Alimentação,-14.90,Família
+2025-06-07,Cinema,Lazer,-84.00,Família
+2025-06-08,Plano de Celular,Telefone,-120.00,Romeu
+2025-06-08,Plano de Celular,Telefone,-120.00,Julieta
+2025-06-08,Padaria Pão Quente,Alimentação,-11.60,Família
+2025-06-08,Pizzaria,Alimentação,-95.00,Família
+2025-06-09,Padaria Pão Quente,Alimentação,-13.70,Família
+2025-06-09,Gasolina Posto Ipiranga,Carro,-92.00,Família
+2025-06-09,Supermercado Dia,Mercado,-256.40,Família
+2025-06-10,Padaria Pão Quente,Alimentação,-15.50,Família
+2025-06-10,Lanche escolar,Alimentação,-8.00,Filho
+2025-06-10,Farmácia - Antitérmico,Saúde,-28.90,Filho
+2025-06-11,Padaria Pão Quente,Alimentação,-12.40,Família
+2025-06-11,Lanche escolar,Alimentação,-8.00,Filho
+2025-06-11,Spotify,Lazer,-21.90,Romeu
+2025-06-12,Padaria Pão Quente,Alimentação,-14.20,Família
+2025-06-12,Lanche escolar,Alimentação,-8.00,Filho
+2025-06-12,Médico pediatra,Saúde,-250.00,Filho
+2025-06-13,Padaria Pão Quente,Alimentação,-13.50,Família
+2025-06-13,Feira livre,Mercado,-81.60,Família
+2025-06-13,Sorveteria,Lazer,-48.00,Família
+2025-06-14,Padaria Pão Quente,Alimentação,-15.90,Família
+2025-06-14,Shopping - Passeio,Lazer,-165.00,Família
+2025-06-15,Padaria Pão Quente,Alimentação,-11.70,Família
+2025-06-15,Restaurante,Alimentação,-198.00,Família
+2025-06-16,Padaria Pão Quente,Alimentação,-14.60,Família
+2025-06-16,Gasolina Posto BR,Carro,-89.00,Família
+2025-06-16,Supermercado Extra,Mercado,-223.70,Família
+2025-06-17,Padaria Pão Quente,Alimentação,-12.80,Família
+2025-06-17,Lanche escolar,Alimentação,-8.00,Filho
+2025-06-17,Uber - Trabalho,Transporte,-20.00,Romeu
+2025-06-18,Padaria Pão Quente,Alimentação,-13.90,Família
+2025-06-18,Lanche escolar,Alimentação,-8.00,Filho
+2025-06-18,Bob's,Alimentação,-56.90,Família
+2025-06-19,Padaria Pão Quente,Alimentação,-15.30,Família
+2025-06-19,Lanche escolar,Alimentação,-8.00,Filho
+2025-06-19,Farmácia - Vitaminas,Saúde,-72.50,Família
+2025-06-20,Padaria Pão Quente,Alimentação,-12.50,Família
+2025-06-20,Feira livre,Mercado,-86.40,Família
+2025-06-20,Brinquedo,Presentes,-95.00,Filho
+2025-06-21,Padaria Pão Quente,Alimentação,-14.70,Família
+2025-06-21,Passeio - Zoo,Lazer,-145.00,Família
+2025-06-21,Lanche no passeio,Alimentação,-68.00,Família
+2025-06-22,Padaria Pão Quente,Alimentação,-11.90,Família
+2025-06-22,Almoço domingo,Alimentação,-176.00,Família
+2025-06-23,Padaria Pão Quente,Alimentação,-13.60,Família
+2025-06-23,Gasolina Posto Shell,Carro,-94.00,Família
+2025-06-23,Supermercado Carrefour,Mercado,-298.50,Família
+2025-06-24,Padaria Pão Quente,Alimentação,-15.40,Família
+2025-06-24,Lanche escolar,Alimentação,-8.00,Filho
+2025-06-24,Festa Junina escola - Contribuição,Educação,-50.00,Filho
+2025-06-25,Padaria Pão Quente,Alimentação,-12.20,Família
+2025-06-25,Lanche escolar,Alimentação,-8.00,Filho
+2025-06-25,Veterinário - Consulta de rotina,Pet,-150.00,Cachorro
+2025-06-26,Padaria Pão Quente,Alimentação,-14.80,Família
+2025-06-26,Lanche escolar,Alimentação,-8.00,Filho
+2025-06-26,Uber Eats,Alimentação,-79.50,Família
+2025-06-27,Padaria Pão Quente,Alimentação,-13.20,Família
+2025-06-27,Feira livre,Mercado,-77.80,Família
+2025-06-27,Cinema,Lazer,-84.00,Família
+2025-06-28,Padaria Pão Quente,Alimentação,-15.80,Família
+2025-06-28,Ração para cachorro,Pet,-95.00,Cachorro
+2025-06-28,Restaurante,Alimentação,-189.00,Família
+2025-06-29,Padaria Pão Quente,Alimentação,-11.50,Família
+2025-06-29,Parque de diversões,Lazer,-135.00,Família
+2025-06-30,Padaria Pão Quente,Alimentação,-14.40,Família
+2025-06-30,Gasolina Posto Ipiranga,Carro,-91.00,Família
+2025-06-30,Supermercado Atacadão,Mercado,-267.90,Família
+2025-07-01,Padaria Pão Quente,Alimentação,-12.90,Família
+2025-07-01,Lanche escolar,Alimentação,-8.00,Filho
+2025-07-01,Netflix,Lazer,-55.90,Família
+2025-07-02,Padaria Pão Quente,Alimentação,-13.80,Família
+2025-07-02,Lanche escolar,Alimentação,-8.00,Filho
+2025-07-02,Farmácia - Remédios,Saúde,-52.80,Família
+2025-07-03,Padaria Pão Quente,Alimentação,-15.60,Família
+2025-07-03,Supermercado Dia,Mercado,-245.30,Família
+2025-07-03,Feira livre,Mercado,-83.50,Família
+2025-07-04,Padaria Pão Quente,Alimentação,-12.30,Família
+2025-07-04,Pizzaria,Alimentação,-102.00,Família
+2025-07-05,Salário,Receita,5000.00,Romeu
+2025-07-05,Salário,Receita,4500.00,Julieta
+2025-07-05,Padaria Pão Quente,Alimentação,-14.90,Família
+2025-07-05,Mensalidade escola,Educação,-650.00,Filho
+2025-07-06,Aluguel Julho,Moradia,-1800.00,Família
+2025-07-06,Padaria Pão Quente,Alimentação,-11.60,Família
+2025-07-06,Almoço final de semana,Alimentação,-167.00,Família
+2025-07-07,Conta de Luz,Energia,-185.00,Família
+2025-07-07,Conta de Água,Água,-90.00,Família
+2025-07-07,Padaria Pão Quente,Alimentação,-13.70,Família
+2025-07-07,Gasolina Posto BR,Carro,-93.00,Família
+2025-07-08,Plano de Celular,Telefone,-120.00,Romeu
+2025-07-08,Plano de Celular,Telefone,-120.00,Julieta
+2025-07-08,Padaria Pão Quente,Alimentação,-15.50,Família
+2025-07-08,Supermercado Extra,Mercado,-289.40,Família
+2025-07-09,Padaria Pão Quente,Alimentação,-12.40,Família
+2025-07-09,Lanche escolar,Alimentação,-8.00,Filho
+2025-07-09,Spotify,Lazer,-21.90,Romeu
+2025-07-10,Padaria Pão Quente,Alimentação,-14.20,Família
+2025-07-10,Lanche escolar,Alimentação,-8.00,Filho
+2025-07-10,Uber Eats,Alimentação,-74.50,Família
+2025-07-11,Padaria Pão Quente,Alimentação,-13.50,Família
+2025-07-11,Feira livre,Mercado,-79.60,Família
+2025-07-11,Sorveteria,Lazer,-51.00,Família
+2025-07-12,Padaria Pão Quente,Alimentação,-15.90,Família
+2025-07-12,Cinema,Lazer,-84.00,Família
+2025-07-12,Pipoca cinema,Lazer,-42.00,Família
+2025-07-13,Padaria Pão Quente,Alimentação,-11.80,Família
+2025-07-13,Restaurante,Alimentação,-205.00,Família
+2025-07-14,Padaria Pão Quente,Alimentação,-14.60,Família
+2025-07-14,Gasolina Posto Shell,Carro,-96.00,Família
+2025-07-14,Supermercado Carrefour,Mercado,-267.80,Família
+2025-07-15,Padaria Pão Quente,Alimentação,-12.70,Família
+2025-07-15,Lanche escolar,Alimentação,-8.00,Filho
+2025-07-15,Farmácia - Antialérgico,Saúde,-58.90,Família
+2025-07-16,Padaria Pão Quente,Alimentação,-13.90,Família
+2025-07-16,Lanche escolar,Alimentação,-8.00,Filho
+2025-07-16,Bob's,Alimentação,-49.90,Família
+2025-07-17,Padaria Pão Quente,Alimentação,-15.30,Família
+2025-07-17,Lanche escolar,Alimentação,-8.00,Filho
+2025-07-17,Dentista - Consulta,Saúde,-200.00,Filho
+2025-07-18,Padaria Pão Quente,Alimentação,-12.50,Família
+2025-07-18,Feira livre,Mercado,-84.30,Família
+2025-07-18,Shopping - Roupas,Vestuário,-256.00,Família
+2025-07-19,Padaria Pão Quente,Alimentação,-14.70,Família
+2025-07-19,Parque aquático,Lazer,-215.00,Família
+2025-07-19,Lanche no parque,Alimentação,-72.00,Família
+2025-07-20,Padaria Pão Quente,Alimentação,-11.90,Família
+2025-07-20,Churrascaria,Alimentação,-238.00,Família
+2025-07-21,Padaria Pão Quente,Alimentação,-13.60,Família
+2025-07-21,Gasolina Posto Ipiranga,Carro,-90.00,Família
+2025-07-21,Supermercado Atacadão,Mercado,-318.50,Família
+2025-07-22,Padaria Pão Quente,Alimentação,-15.40,Família
+2025-07-22,Lanche escolar,Alimentação,-8.00,Filho
+2025-07-22,Material didático extra,Educação,-125.00,Filho
+2025-07-23,Padaria Pão Quente,Alimentação,-12.20,Família
+2025-07-23,Lanche escolar,Alimentação,-8.00,Filho
+2025-07-23,Uber - Centro,Transporte,-21.50,Julieta
+2025-07-24,Padaria Pão Quente,Alimentação,-14.80,Família
+2025-07-24,Lanche escolar,Alimentação,-8.00,Filho
+2025-07-24,Pizzaria,Alimentação,-108.00,Família
+2025-07-25,Padaria Pão Quente,Alimentação,-13.20,Família
+2025-07-25,Feira livre,Mercado,-81.70,Família
+2025-07-25,Seguro do Carro - Anual,Carro,-1200.00,Família
+2025-07-26,Padaria Pão Quente,Alimentação,-15.80,Família
+2025-07-26,Brinquedo,Presentes,-89.00,Filho
+2025-07-26,Sorvete,Lazer,-43.00,Família
+2025-07-27,Padaria Pão Quente,Alimentação,-11.50,Família
+2025-07-27,Restaurante,Alimentação,-192.00,Família
+2025-07-28,Padaria Pão Quente,Alimentação,-14.40,Família
+2025-07-28,Gasolina Posto BR,Carro,-88.00,Família
+2025-07-28,Ração para cachorro,Pet,-95.00,Cachorro
+2025-07-29,Padaria Pão Quente,Alimentação,-12.90,Família
+2025-07-29,Lanche escolar,Alimentação,-8.00,Filho
+2025-07-29,Supermercado Dia,Mercado,-234.60,Família
+2025-07-30,Padaria Pão Quente,Alimentação,-13.80,Família
+2025-07-30,Lanche escolar,Alimentação,-8.00,Filho
+2025-07-30,Netflix,Lazer,-55.90,Família
+2025-07-31,Padaria Pão Quente,Alimentação,-15.60,Família
+2025-07-31,Feira livre,Mercado,-87.90,Família
+2025-07-31,Cinema,Lazer,-84.00,Família
+2025-08-01,Padaria Pão Quente,Alimentação,-12.30,Família
+2025-08-01,Uber Eats,Alimentação,-81.50,Família
+2025-08-02,Padaria Pão Quente,Alimentação,-14.90,Família
+2025-08-02,Almoço final de semana,Alimentação,-175.00,Família
+2025-08-03,Padaria Pão Quente,Alimentação,-11.60,Família
+2025-08-03,Parque de diversões,Lazer,-155.00,Família
+2025-08-04,Padaria Pão Quente,Alimentação,-13.70,Família
+2025-08-04,Gasolina Posto Shell,Carro,-95.00,Família
+2025-08-04,Supermercado Extra,Mercado,-276.30,Família
+2025-08-05,Salário,Receita,5000.00,Romeu
+2025-08-05,Salário,Receita,4500.00,Julieta
+2025-08-05,Padaria Pão Quente,Alimentação,-15.50,Família
+2025-08-05,Lanche escolar,Alimentação,-8.00,Filho
+2025-08-05,Mensalidade escola,Educação,-650.00,Filho
+2025-08-06,Aluguel Agosto,Moradia,-1800.00,Família
+2025-08-06,Padaria Pão Quente,Alimentação,-12.40,Família
+2025-08-06,Lanche escolar,Alimentação,-8.00,Filho
+2025-08-06,Spotify,Lazer,-21.90,Romeu
+2025-08-07,Conta de Luz,Energia,-172.00,Família
+2025-08-07,Conta de Água,Água,-87.00,Família
+2025-08-07,Padaria Pão Quente,Alimentação,-14.20,Família
+2025-08-07,Farmácia - Remédios,Saúde,-64.80,Família
+2025-08-08,Plano de Celular,Telefone,-120.00,Romeu
+2025-08-08,Plano de Celular,Telefone,-120.00,Julieta
+2025-08-08,Padaria Pão Quente,Alimentação,-13.50,Família
+2025-08-08,Feira livre,Mercado,-76.40,Família
+2025-08-09,Padaria Pão Quente,Alimentação,-15.90,Família
+2025-08-09,Shopping - Roupas,Vestuário,-298.00,Romeu
+2025-08-09,Cinema,Lazer,-84.00,Família
+2025-08-10,Padaria Pão Quente,Alimentação,-11.80,Família
+2025-08-10,Restaurante,Alimentação,-212.00,Família
+2025-08-11,Padaria Pão Quente,Alimentação,-14.60,Família
+2025-08-11,Gasolina Posto Ipiranga,Carro,-87.00,Família
+2025-08-11,Supermercado Carrefour,Mercado,-289.70,Família
+2025-08-12,Padaria Pão Quente,Alimentação,-12.70,Família
+2025-08-12,Lanche escolar,Alimentação,-8.00,Filho
+2025-08-12,Bob's,Alimentação,-53.90,Família
+2025-08-13,Padaria Pão Quente,Alimentação,-13.90,Família
+2025-08-13,Lanche escolar,Alimentação,-8.00,Filho
+2025-08-13,Uber - Trabalho,Transporte,-22.00,Romeu
+2025-08-14,Padaria Pão Quente,Alimentação,-15.30,Família
+2025-08-14,Lanche escolar,Alimentação,-8.00,Filho
+2025-08-14,Farmácia - Vitamina,Saúde,-71.50,Família
+2025-08-15,Padaria Pão Quente,Alimentação,-12.50,Família
+2025-08-15,Feira livre,Mercado,-82.60,Família
+2025-08-15,Sorveteria,Lazer,-46.00,Família
+2025-08-16,Padaria Pão Quente,Alimentação,-14.70,Família
+2025-08-16,Pizzaria,Alimentação,-98.00,Família
+2025-08-17,Padaria Pão Quente,Alimentação,-11.90,Família
+2025-08-17,Parque aquático,Lazer,-185.00,Família
+2025-08-18,Padaria Pão Quente,Alimentação,-13.60,Família
+2025-08-18,Gasolina Posto BR,Carro,-92.00,Família
+2025-08-18,Supermercado Atacadão,Mercado,-298.50,Família
+2025-08-19,Padaria Pão Quente,Alimentação,-15.40,Família
+2025-08-19,Lanche escolar,Alimentação,-8.00,Filho
+2025-08-19,Netflix,Lazer,-55.90,Família
+2025-08-20,Padaria Pão Quente,Alimentação,-12.20,Família
+2025-08-20,Lanche escolar,Alimentação,-8.00,Filho
+2025-08-20,Decoração festa de aniversário,Lazer,-285.00,Filho
+2025-08-21,Padaria Pão Quente,Alimentação,-14.80,Família
+2025-08-21,Lanche escolar,Alimentação,-8.00,Filho
+2025-08-21,Uber Eats,Alimentação,-77.50,Família
+2025-08-22,Padaria Pão Quente,Alimentação,-13.20,Família
+2025-08-22,Feira livre,Mercado,-79.80,Família
+2025-08-22,Bolo e doces - Festa,Lazer,-320.00,Filho
+2025-08-23,Padaria Pão Quente,Alimentação,-15.80,Família
+2025-08-23,Buffet festa de aniversário,Lazer,-850.00,Filho
+2025-08-23,Presente aniversário filho,Presentes,-380.00,Filho
+2025-08-24,Padaria Pão Quente,Alimentação,-11.50,Família
+2025-08-24,Almoço domingo,Alimentação,-198.00,Família
+2025-08-25,Padaria Pão Quente,Alimentação,-14.40,Família
+2025-08-25,Gasolina Posto Shell,Carro,-89.00,Família
+2025-08-25,Supermercado Dia,Mercado,-245.90,Família
+2025-08-26,Padaria Pão Quente,Alimentação,-12.90,Família
+2025-08-26,Lanche escolar,Alimentação,-8.00,Filho
+2025-08-26,Farmácia - Remédios,Saúde,-56.90,Família
+2025-08-27,Padaria Pão Quente,Alimentação,-13.80,Família
+2025-08-27,Lanche escolar,Alimentação,-8.00,Filho
+2025-08-27,Dentista - Limpeza,Saúde,-200.00,Julieta
+2025-08-28,Padaria Pão Quente,Alimentação,-15.60,Família
+2025-08-28,Lanche escolar,Alimentação,-8.00,Filho
+2025-08-28,Ração para cachorro,Pet,-95.00,Cachorro
+2025-08-29,Padaria Pão Quente,Alimentação,-12.30,Família
+2025-08-29,Feira livre,Mercado,-85.70,Família
+2025-08-29,Cinema,Lazer,-84.00,Família
+2025-08-30,Padaria Pão Quente,Alimentação,-14.90,Família
+2025-08-30,Restaurante,Alimentação,-189.00,Família
+2025-08-31,Padaria Pão Quente,Alimentação,-11.60,Família
+2025-08-31,Sorvete,Lazer,-39.00,Família
+2025-09-01,Padaria Pão Quente,Alimentação,-13.70,Família
+2025-09-01,Gasolina Posto Ipiranga,Carro,-94.00,Família
+2025-09-01,Supermercado Extra,Mercado,-267.80,Família
+2025-09-02,Padaria Pão Quente,Alimentação,-15.50,Família
+2025-09-02,Lanche escolar,Alimentação,-8.00,Filho
+2025-09-02,Netflix,Lazer,-55.90,Família
+2025-09-03,Padaria Pão Quente,Alimentação,-12.40,Família
+2025-09-03,Lanche escolar,Alimentação,-8.00,Filho
+2025-09-03,Uber Eats,Alimentação,-73.50,Família
+2025-09-04,Padaria Pão Quente,Alimentação,-14.20,Família
+2025-09-04,Lanche escolar,Alimentação,-8.00,Filho
+2025-09-04,Farmácia - Antigripal,Saúde,-42.80,Família
+2025-09-05,Salário,Receita,5000.00,Romeu
+2025-09-05,Salário,Receita,4500.00,Julieta
+2025-09-05,Padaria Pão Quente,Alimentação,-13.50,Família
+2025-09-05,Feira livre,Mercado,-77.50,Família
+2025-09-05,Mensalidade escola,Educação,-650.00,Filho
+2025-09-06,Aluguel Setembro,Moradia,-1800.00,Família
+2025-09-06,Padaria Pão Quente,Alimentação,-15.90,Família
+2025-09-06,Pizzaria,Alimentação,-105.00,Família
+2025-09-07,Conta de Luz,Energia,-168.00,Família
+2025-09-07,Conta de Água,Água,-84.00,Família
+2025-09-07,Padaria Pão Quente,Alimentação,-11.80,Família
+2025-09-07,Feriado - Churrasco,Alimentação,-256.00,Família
+2025-09-08,Plano de Celular,Telefone,-120.00,Romeu
+2025-09-08,Plano de Celular,Telefone,-120.00,Julieta
+2025-09-08,Padaria Pão Quente,Alimentação,-14.60,Família
+2025-09-08,Gasolina Posto BR,Carro,-91.00,Família
+2025-09-09,Padaria Pão Quente,Alimentação,-12.70,Família
+2025-09-09,Lanche escolar,Alimentação,-8.00,Filho
+2025-09-09,Spotify,Lazer,-21.90,Romeu
+2025-09-10,Padaria Pão Quente,Alimentação,-13.90,Família
+2025-09-10,Lanche escolar,Alimentação,-8.00,Filho
+2025-09-10,Supermercado Carrefour,Mercado,-289.40,Família
+2025-09-11,Padaria Pão Quente,Alimentação,-15.30,Família
+2025-09-11,Lanche escolar,Alimentação,-8.00,Filho
+2025-09-11,Bob's,Alimentação,-51.90,Família
+2025-09-12,Padaria Pão Quente,Alimentação,-12.50,Família
+2025-09-12,Feira livre,Mercado,-81.30,Família
+2025-09-12,Sorveteria,Lazer,-44.00,Família
+2025-09-13,Padaria Pão Quente,Alimentação,-14.70,Família
+2025-09-13,Cinema,Lazer,-84.00,Família
+2025-09-13,Pipoca cinema,Lazer,-38.00,Família
+2025-09-14,Padaria Pão Quente,Alimentação,-11.90,Família
+2025-09-14,Restaurante,Alimentação,-195.00,Família
+2025-09-15,Padaria Pão Quente,Alimentação,-13.60,Família
+2025-09-15,Gasolina Posto Shell,Carro,-93.00,Família
+2025-09-15,Supermercado Atacadão,Mercado,-312.60,Família
+2025-09-16,Padaria Pão Quente,Alimentação,-15.40,Família
+2025-09-16,Lanche escolar,Alimentação,-8.00,Filho
+2025-09-16,Farmácia - Vitaminas,Saúde,-68.50,Família
+2025-09-17,Padaria Pão Quente,Alimentação,-12.20,Família
+2025-09-17,Lanche escolar,Alimentação,-8.00,Filho
+2025-09-17,Uber - Centro médico,Transporte,-23.50,Romeu
+2025-09-18,Padaria Pão Quente,Alimentação,-14.80,Família
+2025-09-18,Lanche escolar,Alimentação,-8.00,Filho
+2025-09-18,Médico clínico,Saúde,-280.00,Romeu
+2025-09-19,Padaria Pão Quente,Alimentação,-13.20,Família
+2025-09-19,Feira livre,Mercado,-79.70,Família
+2025-09-19,Exames médicos,Saúde,-420.00,Romeu
+2025-09-20,Padaria Pão Quente,Alimentação,-15.80,Família
+2025-09-20,Shopping - Passeio,Lazer,-145.00,Família
+2025-09-21,Padaria Pão Quente,Alimentação,-11.50,Família
+2025-09-21,Almoço domingo,Alimentação,-182.00,Família
+2025-09-22,Padaria Pão Quente,Alimentação,-14.40,Família
+2025-09-22,Gasolina Posto Ipiranga,Carro,-88.00,Família
+2025-09-22,Supermercado Dia,Mercado,-256.80,Família
+2025-09-23,Padaria Pão Quente,Alimentação,-12.90,Família
+2025-09-23,Lanche escolar,Alimentação,-8.00,Filho
+2025-09-23,Netflix,Lazer,-55.90,Família
+2025-09-24,Padaria Pão Quente,Alimentação,-13.80,Família
+2025-09-24,Lanche escolar,Alimentação,-8.00,Filho
+2025-09-24,Uber Eats,Alimentação,-76.50,Família
+2025-09-25,Padaria Pão Quente,Alimentação,-15.60,Família
+2025-09-25,Lanche escolar,Alimentação,-8.00,Filho
+2025-09-25,Roupa nova - Shopping,Vestuário,-320.00,Julieta
+2025-09-26,Padaria Pão Quente,Alimentação,-12.30,Família
+2025-09-26,Feira livre,Mercado,-84.90,Família
+2025-09-26,Brinquedo,Presentes,-72.00,Filho
+2025-09-27,Padaria Pão Quente,Alimentação,-14.90,Família
+2025-09-27,Restaurante,Alimentação,-201.00,Família
+2025-09-28,Padaria Pão Quente,Alimentação,-11.60,Família
+2025-09-28,Parque de diversões,Lazer,-165.00,Família
+2025-09-28,Ração para cachorro,Pet,-95.00,Cachorro
+2025-09-29,Padaria Pão Quente,Alimentação,-13.70,Família
+2025-09-29,Gasolina Posto BR,Carro,-95.00,Família
+2025-09-29,Supermercado Extra,Mercado,-234.70,Família
+2025-09-30,Padaria Pão Quente,Alimentação,-15.50,Família
+2025-09-30,Sorvete,Lazer,-41.00,Família
+2025-10-01,Padaria Pão Quente,Alimentação,-12.40,Família
+2025-10-01,Lanche escolar,Alimentação,-8.00,Filho
+2025-10-01,Farmácia - Remédios,Saúde,-54.90,Família
+2025-10-02,Padaria Pão Quente,Alimentação,-14.20,Família
+2025-10-02,Lanche escolar,Alimentação,-8.00,Filho
+2025-10-02,Pizzaria,Alimentação,-96.00,Família
+2025-10-03,Padaria Pão Quente,Alimentação,-13.50,Família
+2025-10-03,Feira livre,Mercado,-78.60,Família
+2025-10-03,Cinema,Lazer,-84.00,Família
+2025-10-04,Padaria Pão Quente,Alimentação,-15.90,Família
+2025-10-04,Almoço final de semana,Alimentação,-178.00,Família
+2025-10-05,Salário,Receita,5000.00,Romeu
+2025-10-05,Salário,Receita,4500.00,Julieta
+2025-10-05,Padaria Pão Quente,Alimentação,-11.80,Família
+2025-10-05,Mensalidade escola,Educação,-650.00,Filho
+2025-10-06,Aluguel Outubro,Moradia,-1800.00,Família
+2025-10-06,Padaria Pão Quente,Alimentação,-14.60,Família
+2025-10-06,Gasolina Posto Shell,Carro,-90.00,Família
+2025-10-06,Netflix,Lazer,-55.90,Família
+2025-10-07,Conta de Luz,Energia,-192.00,Família
+2025-10-07,Conta de Água,Água,-96.00,Família
+2025-10-07,Padaria Pão Quente,Alimentação,-12.70,Família
+2025-10-07,Lanche escolar,Alimentação,-8.00,Filho
+2025-10-08,Plano de Celular,Telefone,-120.00,Romeu
+2025-10-08,Plano de Celular,Telefone,-120.00,Julieta
+2025-10-08,Padaria Pão Quente,Alimentação,-13.90,Família
+2025-10-08,Supermercado Carrefour,Mercado,-298.50,Família
+2025-10-09,Padaria Pão Quente,Alimentação,-15.30,Família
+2025-10-09,Lanche escolar,Alimentação,-8.00,Filho
+2025-10-09,Spotify,Lazer,-21.90,Romeu
+2025-10-10,Padaria Pão Quente,Alimentação,-12.50,Família
+2025-10-10,Lanche escolar,Alimentação,-8.00,Filho
+2025-10-10,Uber Eats,Alimentação,-79.50,Família
+2025-10-11,Padaria Pão Quente,Alimentação,-14.70,Família
+2025-10-11,Feira livre,Mercado,-82.40,Família
+2025-10-11,Sorveteria,Lazer,-47.00,Família
+2025-10-12,Padaria Pão Quente,Alimentação,-11.90,Família
+2025-10-12,Feriado - Restaurante,Alimentação,-218.00,Família
+2025-10-13,Padaria Pão Quente,Alimentação,-13.60,Família
+2025-10-13,Gasolina Posto Ipiranga,Carro,-94.00,Família
+2025-10-13,Supermercado Atacadão,Mercado,-276.90,Família
+2025-10-14,Padaria Pão Quente,Alimentação,-15.40,Família
+2025-10-14,Lanche escolar,Alimentação,-8.00,Filho
+2025-10-14,Bob's,Alimentação,-54.90,Família
+2025-10-15,Padaria Pão Quente,Alimentação,-12.20,Família
+2025-10-15,Lanche escolar,Alimentação,-8.00,Filho
+2025-10-15,Presente Dia dos Professores,Presentes,-85.00,Filho
+2025-10-16,Padaria Pão Quente,Alimentação,-14.80,Família
+2025-10-16,Lanche escolar,Alimentação,-8.00,Filho
+2025-10-16,Farmácia - Antitérmico,Saúde,-36.90,Família
+2025-10-17,Padaria Pão Quente,Alimentação,-13.20,Família
+2025-10-17,Feira livre,Mercado,-79.80,Família
+2025-10-17,Cinema,Lazer,-84.00,Família
+2025-10-18,Padaria Pão Quente,Alimentação,-15.80,Família
+2025-10-18,Shopping - Roupas,Vestuário,-267.00,Família
+2025-10-19,Padaria Pão Quente,Alimentação,-11.50,Família
+2025-10-19,Restaurante,Alimentação,-196.00,Família
+2025-10-20,Padaria Pão Quente,Alimentação,-14.40,Família
+2025-10-20,Gasolina Posto BR,Carro,-89.00,Família
+2025-10-20,Supermercado Dia,Mercado,-245.30,Família
+2025-10-21,Padaria Pão Quente,Alimentação,-12.90,Família
+2025-10-21,Lanche escolar,Alimentação,-8.00,Filho
+2025-10-21,Netflix,Lazer,-55.90,Família
+2025-10-22,Padaria Pão Quente,Alimentação,-13.80,Família
+2025-10-22,Lanche escolar,Alimentação,-8.00,Filho
+2025-10-22,Manutenção do carro - Troca de pneu,Carro,-380.00,Família
+2025-10-23,Padaria Pão Quente,Alimentação,-15.60,Família
+2025-10-23,Lanche escolar,Alimentação,-8.00,Filho
+2025-10-23,Uber Eats,Alimentação,-74.50,Família
+2025-10-24,Padaria Pão Quente,Alimentação,-12.30,Família
+2025-10-24,Feira livre,Mercado,-85.60,Família
+2025-10-24,Brinquedo,Presentes,-95.00,Filho
+2025-10-25,Padaria Pão Quente,Alimentação,-14.90,Família
+2025-10-25,Veterinário - Consulta,Pet,-190.00,Cachorro
+2025-10-25,Pizzaria,Alimentação,-102.00,Família
+2025-10-26,Padaria Pão Quente,Alimentação,-11.60,Família
+2025-10-26,Parque aquático,Lazer,-205.00,Família
+2025-10-27,Padaria Pão Quente,Alimentação,-13.70,Família
+2025-10-27,Gasolina Posto Shell,Carro,-92.00,Família
+2025-10-27,Supermercado Extra,Mercado,-267.80,Família
+2025-10-28,Padaria Pão Quente,Alimentação,-15.50,Família
+2025-10-28,Lanche escolar,Alimentação,-8.00,Filho
+2025-10-28,Ração para cachorro,Pet,-95.00,Cachorro
+2025-10-29,Padaria Pão Quente,Alimentação,-12.40,Família
+2025-10-29,Lanche escolar,Alimentação,-8.00,Filho
+2025-10-29,Farmácia - Vitaminas,Saúde,-73.50,Família
+2025-10-30,Padaria Pão Quente,Alimentação,-14.20,Família
+2025-10-30,Lanche escolar,Alimentação,-8.00,Filho
+2025-10-30,Dentista - Consulta,Saúde,-200.00,Romeu
+2025-10-31,Padaria Pão Quente,Alimentação,-13.50,Família
+2025-10-31,Feira livre,Mercado,-81.70,Família
+2025-10-31,Sorvete,Lazer,-42.00,Família
+2025-11-01,Padaria Pão Quente,Alimentação,-15.90,Família
+2025-11-01,Almoço final de semana,Alimentação,-185.00,Família
+2025-11-02,Padaria Pão Quente,Alimentação,-11.80,Família
+2025-11-02,Feriado - Cinema,Lazer,-84.00,Família
+2025-11-03,Padaria Pão Quente,Alimentação,-14.60,Família
+2025-11-03,Gasolina Posto Ipiranga,Carro,-91.00,Família
+2025-11-03,Supermercado Carrefour,Mercado,-289.40,Família
+2025-11-04,Padaria Pão Quente,Alimentação,-12.70,Família
+2025-11-04,Lanche escolar,Alimentação,-8.00,Filho
+2025-11-04,Netflix,Lazer,-55.90,Família
+2025-11-05,Salário,Receita,5000.00,Romeu
+2025-11-05,Salário,Receita,4500.00,Julieta
+2025-11-05,Padaria Pão Quente,Alimentação,-13.90,Família
+2025-11-05,Lanche escolar,Alimentação,-8.00,Filho
+2025-11-05,Mensalidade escola,Educação,-650.00,Filho
+2025-11-06,Aluguel Novembro,Moradia,-1800.00,Família
+2025-11-06,Padaria Pão Quente,Alimentação,-15.30,Família
+2025-11-06,Uber Eats,Alimentação,-81.50,Família
+2025-11-07,Conta de Luz,Energia,-205.00,Família
+2025-11-07,Conta de Água,Água,-105.00,Família
+2025-11-07,Padaria Pão Quente,Alimentação,-12.50,Família
+2025-11-07,Feira livre,Mercado,-76.90,Família
+2025-11-08,Plano de Celular,Telefone,-120.00,Romeu
+2025-11-08,Plano de Celular,Telefone,-120.00,Julieta
+2025-11-08,Padaria Pão Quente,Alimentação,-14.70,Família
+2025-11-08,Pizzaria,Alimentação,-108.00,Família
+2025-11-09,Padaria Pão Quente,Alimentação,-11.90,Família
+2025-11-09,Shopping - Passeio,Lazer,-155.00,Família
+2025-11-10,Padaria Pão Quente,Alimentação,-13.60,Família
+2025-11-10,Gasolina Posto BR,Carro,-87.00,Família
+2025-11-10,Supermercado Atacadão,Mercado,-298.70,Família
+2025-11-11,Padaria Pão Quente,Alimentação,-15.40,Família
+2025-11-11,Lanche escolar,Alimentação,-8.00,Filho
+2025-11-11,Spotify,Lazer,-21.90,Romeu
+2025-11-12,Padaria Pão Quente,Alimentação,-12.20,Família
+2025-11-12,Lanche escolar,Alimentação,-8.00,Filho
+2025-11-12,Bob's,Alimentação,-48.90,Família
+2025-11-13,Padaria Pão Quente,Alimentação,-14.80,Família
+2025-11-13,Lanche escolar,Alimentação,-8.00,Filho
+2025-11-13,Farmácia - Remédios,Saúde,-61.80,Família
+2025-11-14,Padaria Pão Quente,Alimentação,-13.20,Família
+2025-11-14,Feira livre,Mercado,-83.40,Família
+2025-11-14,Sorveteria,Lazer,-45.00,Família
+2025-11-15,Padaria Pão Quente,Alimentação,-15.80,Família
+2025-11-15,Feriado - Churrasco,Alimentação,-267.00,Família
+2025-11-16,Padaria Pão Quente,Alimentação,-11.50,Família
+2025-11-16,Restaurante,Alimentação,-205.00,Família
+2025-11-17,Padaria Pão Quente,Alimentação,-14.40,Família
+2025-11-17,Gasolina Posto Shell,Carro,-95.00,Família
+2025-11-17,Supermercado Dia,Mercado,-256.80,Família
+2025-11-18,Padaria Pão Quente,Alimentação,-12.90,Família
+2025-11-18,Lanche escolar,Alimentação,-8.00,Filho
+2025-11-18,Uber - Trabalho,Transporte,-21.50,Julieta
+2025-11-19,Padaria Pão Quente,Alimentação,-13.80,Família
+2025-11-19,Lanche escolar,Alimentação,-8.00,Filho
+2025-11-19,Médico oftalmologista,Saúde,-280.00,Julieta
+2025-11-20,Padaria Pão Quente,Alimentação,-15.60,Família
+2025-11-20,Lanche escolar,Alimentação,-8.00,Filho
+2025-11-20,Óculos novos,Saúde,-450.00,Julieta
+2025-11-21,Padaria Pão Quente,Alimentação,-12.30,Família
+2025-11-21,Feira livre,Mercado,-79.60,Família
+2025-11-21,Cinema,Lazer,-84.00,Família
+2025-11-22,Padaria Pão Quente,Alimentação,-14.90,Família
+2025-11-22,Parque de diversões,Lazer,-175.00,Família
+2025-11-23,Padaria Pão Quente,Alimentação,-11.60,Família
+2025-11-23,Almoço domingo,Alimentação,-192.00,Família
+2025-11-24,Padaria Pão Quente,Alimentação,-13.70,Família
+2025-11-24,Gasolina Posto Ipiranga,Carro,-90.00,Família
+2025-11-24,Supermercado Extra,Mercado,-234.60,Família
+2025-11-25,Padaria Pão Quente,Alimentação,-15.50,Família
+2025-11-25,Lanche escolar,Alimentação,-8.00,Filho
+2025-11-25,Netflix,Lazer,-55.90,Família
+2025-11-26,Padaria Pão Quente,Alimentação,-12.40,Família
+2025-11-26,Lanche escolar,Alimentação,-8.00,Filho
+2025-11-26,Uber Eats,Alimentação,-78.50,Família
+2025-11-27,Padaria Pão Quente,Alimentação,-14.20,Família
+2025-11-27,Lanche escolar,Alimentação,-8.00,Filho
+2025-11-27,Farmácia - Vitaminas,Saúde,-69.50,Família
+2025-11-28,Padaria Pão Quente,Alimentação,-13.50,Família
+2025-11-28,Feira livre,Mercado,-86.80,Família
+2025-11-28,Ração para cachorro,Pet,-95.00,Cachorro
+2025-11-29,Padaria Pão Quente,Alimentação,-15.90,Família
+2025-11-29,Restaurante,Alimentação,-208.00,Família
+2025-11-30,Padaria Pão Quente,Alimentação,-11.80,Família
+2025-11-30,Sorvete,Lazer,-43.00,Família
+2025-12-01,Padaria Pão Quente,Alimentação,-14.60,Família
+2025-12-01,Gasolina Posto BR,Carro,-93.00,Família
+2025-12-01,Supermercado Carrefour,Mercado,-298.50,Família
+2025-12-02,Padaria Pão Quente,Alimentação,-12.70,Família
+2025-12-02,Lanche escolar,Alimentação,-8.00,Filho
+2025-12-02,Netflix,Lazer,-55.90,Família
+2025-12-03,Padaria Pão Quente,Alimentação,-13.90,Família
+2025-12-03,Lanche escolar,Alimentação,-8.00,Filho
+2025-12-03,Pizzaria,Alimentação,-98.00,Família
+2025-12-04,Padaria Pão Quente,Alimentação,-15.30,Família
+2025-12-04,Feira livre,Mercado,-74.50,Família
+2025-12-04,Cinema,Lazer,-84.00,Família
+2025-12-05,Salário,Receita,5000.00,Romeu
+2025-12-05,Salário,Receita,4500.00,Julieta
+2025-12-05,13º Salário,Receita,5000.00,Romeu
+2025-12-05,13º Salário,Receita,4500.00,Julieta
+2025-12-05,Padaria Pão Quente,Alimentação,-12.50,Família
+2025-12-05,Mensalidade escola,Educação,-650.00,Filho
+2025-12-06,Aluguel Dezembro,Moradia,-1800.00,Família
+2025-12-06,Padaria Pão Quente,Alimentação,-14.70,Família
+2025-12-06,Spotify,Lazer,-21.90,Romeu
+2025-12-07,Conta de Luz,Energia,-220.00,Família
+2025-12-07,Conta de Água,Água,-110.00,Família
+2025-12-07,Padaria Pão Quente,Alimentação,-11.90,Família
+2025-12-07,Almoço domingo,Alimentação,-198.00,Família
+2025-12-08,Plano de Celular,Telefone,-120.00,Romeu
+2025-12-08,Plano de Celular,Telefone,-120.00,Julieta
+2025-12-08,Padaria Pão Quente,Alimentação,-13.60,Família
+2025-12-08,Gasolina Posto Shell,Carro,-96.00,Família
+2025-12-09,Padaria Pão Quente,Alimentação,-15.40,Família
+2025-12-09,Lanche escolar,Alimentação,-8.00,Filho
+2025-12-09,Supermercado Atacadão,Mercado,-345.80,Família
+2025-12-10,Padaria Pão Quente,Alimentação,-12.20,Família
+2025-12-10,Lanche escolar,Alimentação,-8.00,Filho
+2025-12-10,Uber Eats,Alimentação,-75.50,Família
+2025-12-11,Padaria Pão Quente,Alimentação,-14.80,Família
+2025-12-11,Lanche escolar,Alimentação,-8.00,Filho
+2025-12-11,Farmácia - Protetor solar,Saúde,-58.90,Família
+2025-12-12,Padaria Pão Quente,Alimentação,-13.20,Família
+2025-12-12,Feira livre,Mercado,-82.70,Família
+2025-12-12,Sorveteria,Lazer,-49.00,Família
+2025-12-13,Padaria Pão Quente,Alimentação,-15.80,Família
+2025-12-13,Shopping - Presentes Natal,Presentes,-485.00,Família
+2025-12-14,Padaria Pão Quente,Alimentação,-11.50,Família
+2025-12-14,Restaurante,Alimentação,-215.00,Família
+2025-12-15,Padaria Pão Quente,Alimentação,-14.40,Família
+2025-12-15,Gasolina Posto Ipiranga,Carro,-89.00,Família
+2025-12-15,Supermercado Dia,Mercado,-267.90,Família
+2025-12-16,Padaria Pão Quente,Alimentação,-12.90,Família
+2025-12-16,Lanche escolar,Alimentação,-8.00,Filho
+2025-12-16,Bob's,Alimentação,-52.90,Família
+2025-12-17,Padaria Pão Quente,Alimentação,-13.80,Família
+2025-12-17,Lanche escolar,Alimentação,-8.00,Filho
+2025-12-17,Presente Natal - Brinquedos,Presentes,-380.00,Filho
+2025-12-18,Padaria Pão Quente,Alimentação,-15.60,Família
+2025-12-18,Lanche escolar,Alimentação,-8.00,Filho
+2025-12-18,Uber - Shopping,Transporte,-18.50,Julieta
+2025-12-19,Padaria Pão Quente,Alimentação,-12.30,Família
+2025-12-19,Feira livre,Mercado,-88.60,Família
+2025-12-19,Cinema,Lazer,-84.00,Família
+2025-12-20,Padaria Pão Quente,Alimentação,-14.90,Família
+2025-12-20,Roupas novas - Natal,Vestuário,-456.00,Família
+2025-12-21,Padaria Pão Quente,Alimentação,-11.60,Família
+2025-12-21,Restaurante,Alimentação,-235.00,Família
+2025-12-22,Padaria Pão Quente,Alimentação,-13.70,Família
+2025-12-22,Gasolina Posto BR,Carro,-94.00,Família
+2025-12-22,Supermercado Extra - Compras de Natal,Mercado,-567.80,Família
+2025-12-23,Padaria Pão Quente,Alimentação,-15.50,Família
+2025-12-23,Feira livre - Compras Natal,Mercado,-145.00,Família
+2025-12-23,Netflix,Lazer,-55.90,Família
+2025-12-24,Padaria Pão Quente,Alimentação,-12.40,Família
+2025-12-24,Ceia de Natal - Supermercado,Mercado,-485.00,Família
+2025-12-24,Bebidas para ceia,Mercado,-158.00,Família
+2025-12-25,Padaria Pão Quente,Alimentação,-14.20,Família
+2025-12-25,Almoço de Natal - Restaurante,Alimentação,-398.00,Família
+2025-12-26,Padaria Pão Quente,Alimentação,-13.50,Família
+2025-12-26,Parque aquático,Lazer,-225.00,Família
+2025-12-27,Padaria Pão Quente,Alimentação,-15.90,Família
+2025-12-27,Uber - Passeio,Transporte,-28.00,Família
+2025-12-27,Shopping - Liquidação,Vestuário,-298.00,Família
+2025-12-28,Padaria Pão Quente,Alimentação,-11.80,Família
+2025-12-28,Ração para cachorro,Pet,-95.00,Cachorro
+2025-12-28,Petiscos para cachorro,Pet,-42.00,Cachorro
+2025-12-29,Padaria Pão Quente,Alimentação,-14.60,Família
+2025-12-29,Gasolina Posto Shell,Carro,-97.00,Família
+2025-12-29,Supermercado Carrefour,Mercado,-234.50,Família
+2025-12-30,Padaria Pão Quente,Alimentação,-12.70,Família
+2025-12-30,Preparativos viagem,Diversos,-256.00,Família
+2025-12-30,Hotel - Reserva férias,Lazer,-1200.00,Família
+2025-12-31,Padaria Pão Quente,Alimentação,-13.90,Família
+2025-12-31,Jantar Réveillon,Alimentação,-456.00,Família
+2025-12-31,Fogos de artifício,Lazer,-125.00,Família
